@@ -1,0 +1,15 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\bin\Debug\net6.0\CarClassAssignment.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\bin\Debug\net6.0\CarClassAssignment.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\bin\Debug\net6.0\CarClassAssignment.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\bin\Debug\net6.0\CarClassAssignment.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\bin\Debug\net6.0\CarClassAssignment.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\refint\CarClassAssignment.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\CarClassAssignment.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\CarClassAssignment\CarClassAssignment\obj\Debug\net6.0\ref\CarClassAssignment.dll
